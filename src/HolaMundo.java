@@ -6,5 +6,6 @@ public class HolaMundo {
 	
 	public void metodo() {
 		// comentario
+		throw new RuntimeException();
 	}
 }
